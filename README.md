@@ -1,2 +1,2 @@
-# JustDubs
-Kodi Addon For Anime
+# JustDubs.TV
+Kodi Addon For Anime, brought to you by Blunttedsmurf
